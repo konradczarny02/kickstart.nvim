@@ -650,6 +650,7 @@ require('lazy').setup({
           filetypes_exclude = { 'markdown' },
           filetypes_include = {},
         },
+        csslsp = {},
 
         lua_ls = {
           -- cmd = { ... },
